@@ -3,5 +3,6 @@
   }
 
   .bottom {
-    position: absolute; /* Set div position to relative */
+    position: absolute;
+    bottom: 0;
   }
